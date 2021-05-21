@@ -23,7 +23,7 @@ numpy
 
 ### What's Included 🗂
 
-- *Tests* store ```.csv``` files for each persona, and data vizualizations for that data.
-- *Observations* store the ad data from all tests, with categorizations.
-- *data_viz.py* reads the category directories for each test and outputs matplotlib vizualizations.
+- ***Tests*** store ```.csv``` files for each persona, and data vizualizations for that data.
+- ***Observations*** store the ad data from all tests, with categorizations.
+- ***data_viz.py*** reads the category directories for each test and outputs matplotlib vizualizations.
 
