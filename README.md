@@ -1,13 +1,13 @@
 # AllOurData
 Repository for the politics experiments from my comps, AllOurData 📊
 
-## Politics Team 🏛:
+## Politics Team 🏛
 ```
 Cole Hanson
 Jeffrey Boitnott
 ```
 
-## Advised by 👨‍🏫:
+## Advised by 👨‍🏫
 ```
 Jef Ondich
 ```
